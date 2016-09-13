@@ -8,11 +8,11 @@ I want to create a fun website so I illustrated my interface on illustrator. I c
 
 ## How can I develop this 
 
-My goal for this website is to add API from amazon to be implemented into the websie. So when I click pick it will bring out halloween costumes from amazon and links me to buy it there right away. Moreover I want to add more animation to the website such as make the bats move and the spider move when my mous is over the side of the div. 
+My goal for this website is to add API from amazon to be implemented into the website. So when I click 'pick' it will bring out halloween costumes from amazon and links me to buy it there right away. Moreover I want to add more animation to the website such as make the bats move and the spider move when my mouse is over the side of the div. 
 
 ## Credits 
 
-Codes from the week 2 class and the css animation I got inspired by the bounce.js library that I wanted to implement and in the process of learning how to do it. 
+Codes from the week 2 class and the css animation where I got inspired by bounce.js library that I wanted to implement but still in the process of learning how to do it. 
 
 Credits to the images I took from the internet:
 http://www.partiescostume.com/wp-content/uploads/2015/09/Pineapple-Halloween-Costume.jpg
@@ -23,4 +23,4 @@ https://img.costumecraze.com/images/vendors/rubies/810481-Adult-Inflatable-T-Rex
 
 
 ## What did I learn
-I became more familiar with the codes we have learn't in class became more used to creating variables and arrays and really taking the time to understand how it works. This made me more confident in using javascript and trying to read it. 
+I became more familiar with the codes we have learnt in class and became more used to creating variables and arrays by really taking the time to understand how it works. This made me more confident in using javascript and reading it.
