@@ -1,6 +1,6 @@
 ## Concept
 
-Halloween is near nad I still don't know what to wear was my inspiration for this project so I want to create a system that can pick a costume for me wear.  
+Halloween is near and I still don't know what to wear was my inspiration for this project so I want to create a system that can pick a costume for me wear.  
 
 ## What I did 
 
