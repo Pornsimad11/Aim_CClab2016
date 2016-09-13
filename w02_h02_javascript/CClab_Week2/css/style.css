@@ -1,0 +1,124 @@
+body{
+	background: #3C3734;
+	margin:0px;
+
+}
+
+#submit {
+	top:500px;
+	display:block;
+	position:absolute;
+	margin:0 auto;
+	width:312px;
+	height:40px;
+	background: url('../images/text.png') no-repeat,#FCF8CC;
+	background-size:60% auto;
+	background-position: center;
+	border-radius: 8px;
+	z-index:100;
+	right: 0px;
+    left: 0px;
+}
+
+#submit:hover {
+	background: url('../images/text.png') no-repeat,#F4E67F; 	
+	background-size:60% auto;
+	background-position: center;
+}
+
+#costume-picker{
+	top:280px;
+	display:block;
+	position:absolute;
+	margin:0 auto;
+	width:100%;
+	height:50%;
+	background: url('../images/costume.png') no-repeat;
+	background-size:20% auto;
+	background-position: center;
+	z-index:100;
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes slidein {
+  0% {
+    margin-left:4%;
+    width:120%
+  }
+  
+  33% {
+    margin-left:0%;
+    width:100%;
+  }
+ 66% {
+    margin-left:-20%;
+    width:120%;
+  }
+   100% {
+    margin-left:0%;
+    width:100%;
+  }
+
+}
+
+
+
+#pickaboo{
+
+	text-align: center;
+	position:absolute;
+	top:80px;
+	z-index:100;
+    display: block;
+    width:100%;
+    height:50%;
+
+}
+#bats{
+	position: absolute;
+	float:left;
+	top:80px;
+	left:320px;
+	z-index:100;
+}
+
+#spider{
+	position: absolute;
+	float:right;
+	top:20px;
+	right:400px;
+	z-index:100;
+}
+
+.background{
+	top:-20px;
+}
+
+}
+#left{
+	margin:0px;
+	width:50%;
+	float:left;
+}
+#right{
+	margin:0px;
+	width:50%;
+	float:right;
+}
+#form{
+	text-align: center;
+	position:absolute;
+	top:150px;
+	z-index:100;
+    display: block;
+    width:100%;
+    height:100%;
+}
+
+
+
+
+
