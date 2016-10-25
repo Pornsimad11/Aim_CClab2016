@@ -6,13 +6,30 @@
 
   This example code is in the public domain.
 */
-int ledPin = 9;
+
+#include <Adafruit_NeoPixel.h>
+#ifdef __AVR__
+  #include <avr/power.h>
+#endif
+
+// Which pin on the Arduino is connected to the NeoPixels?
+// On a Trinket or Gemma we suggest changing this to 1
+#define PIN            A5
+
+// How many NeoPixels are attached to the Arduino?
+#define NUMPIXELS      8
+
+Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
+
+int delayval = 500; // delay for half a second
+
+//int ledPin = A5;
 int brightness = 0;
 // the setup routine runs once when you press reset:
 void setup() {
   // initialize serial communication at 9600 bits per second:
   Serial.begin(9600);
-  pinMode(ledPin, OUTPUT);
+  pinMode(PIN, OUTPUT);
 }
 
 // the loop routine runs over and over again forever:
