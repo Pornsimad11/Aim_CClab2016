@@ -1,14 +1,15 @@
 ## Concept
 
-I'm experimenting on how to interact list of lines with movements to create visual illusions.
+I'm experimenting on how to create simple visuals movements on openframeworks  
 
 ## What I did 
 
-I created a list of colors and rotate each line of colors individually when mouse goes over
+I manipulated the code we did in class where when click, circle expands and move across the window by adding random colors to the circle, with the background un-updating all the time the continuous circle creates tunnel looking like forms. For the second project I found a basic line drawing tutorial (https://github.com/openframeworks/ofBook/blob/master/chapters/intro_to_graphics/chapter.md), I added random colors to the dot on the lines to make it look like there is energy flowing in the structure and also added key press to clear the drawing. 
 
 ## Credits 
 
-I was having problems to animate a rotation on the line so I learnt how to it by: http://stackoverflow.com/questions/9441256/how-do-i-rotate-an-element-to-180-deg-over-150-ms-on-hover
+https://github.com/openframeworks/ofBook/blob/master/chapters/intro_to_graphics/chapter.md
 
 ## What did I learn
-To create animations via css and trigger it with javascript 
+
+I learnt how openframeworks work, how to generate a project, create circle, randomize colors and I need to understand more of the logic behind how animating each elements in the project work. 
