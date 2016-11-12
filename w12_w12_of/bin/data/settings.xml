@@ -1,0 +1,19 @@
+<group>
+	<Min_area>10</Min_area>
+	<Max_area>200</Max_area>
+	<Threshold>128</Threshold>
+	<Holes>0</Holes>
+	<lkMaxLevel>3</lkMaxLevel>
+	<lkMaxFeatures>200</lkMaxFeatures>
+	<lkQualityLevel>0.01</lkQualityLevel>
+	<lkMinDistance>4</lkMinDistance>
+	<lkWinSize>8</lkWinSize>
+	<Use_Farneback>1</Use_Farneback>
+	<fbPyrScale>0.5</fbPyrScale>
+	<fbLevels>4</fbLevels>
+	<fbIterations>2</fbIterations>
+	<fbPolyN>7</fbPolyN>
+	<fbPolySigma>1.5</fbPolySigma>
+	<fbUseGaussian>0</fbUseGaussian>
+	<winSize>32</winSize>
+</group>

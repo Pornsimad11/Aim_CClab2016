@@ -13,6 +13,7 @@ https://youtu.be/WljtKTMWKJ0
 https://github.com/jaskiratr/CClab_Fall2016/tree/master/03-Class%20Notes/10-%20Week%209
 https://github.com/openframeworks/ofBook/blob/master/chapters/intro_to_graphics/chapter.md
 
+
 ## What did I learn
 
-I learnt how to refer to the classes in different files and how randomizing colors work. 
+I learnt how to refer to the classes in different files and how randomizing colors work.  
