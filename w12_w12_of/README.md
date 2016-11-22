@@ -1,6 +1,6 @@
 ## Concept
 
-I'm experimenting on computer vision to create mysterious visuals.  
+I'm experimenting on computer vision to create mysterious visuals. 
 
 ## What I did 
 
@@ -15,4 +15,4 @@ I used Kylemcdonald's computer vision examples from https://github.com/kylemcdon
 
 ## What did I learn
 
-I learnt about the ofxCv addons, its library and experiment on what I was able to do with it.
+I learnt about the ofxCv addons, its library and experiment on what I was able to do with it. 
